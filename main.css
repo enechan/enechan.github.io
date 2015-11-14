@@ -11,9 +11,12 @@ color: #b0bec5;
   
 }
 
-.main-header 
-  
-padding-top: 20;
-margin-top: 20;
-
+.main-header {
+text-align: left; 
+font-family: Arial; 
+font-size: 70px; 
+color: Crimson;  
+padding-top: -20px;
+margin-top: -20px;
+}
 
