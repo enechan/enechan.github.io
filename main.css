@@ -3,7 +3,7 @@ padding-top: 20px;
 padding-bottom: 170px;
 padding-left: 230px;
 padding-right: 230px;
-margin-top: 20px;
+margin-top: -20px;
 margin-bottom: 120px;
 height: 500px;
 background-color: #424242;
@@ -17,7 +17,7 @@ font-family: Arial;
 font-size: 70px; 
 color: Crimson;  
 padding-top: 20px;
-margin-top: -40px;
+margin-top: -80px;
 margin-bottom: 20px;
 }
 
