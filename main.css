@@ -2,8 +2,8 @@
 .second-header {
 padding-top: 50px;
 padding-bottom: 190px;
-padding-left: 10px;
-padding-right: 10px;
+padding-left: auto;
+padding-right: auto;
 margin-top: -41px;
 margin-bottom: 50px;
 height: 400px;
