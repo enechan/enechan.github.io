@@ -1,5 +1,5 @@
 .second-header {
-padding-top: 15px;
+padding-top: 80px;
 padding-bottom: 100px;
 padding-left: 280px;
 padding-right: 280px;
@@ -11,9 +11,9 @@ color: #b0bec5;
   
 }
 
-.main-header {
+.main-header 
   
 padding-top: 20;
 margin-top: 20;
 
-}
+
