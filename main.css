@@ -13,15 +13,11 @@ text-align: center;
 
 }
 
+.second-header {
 
+height: 400px;
+background-image: url(http://k46.kn3.net/B/E/D/6/C/5/E8C.png);
+  
+  
+}
 
-  header, main, footer {
-    padding-left: 240px;
-  }
-
-  @media only screen and (max-width : 992px) {
-    header, main, footer {
-      padding-left: 0;
-    }
-  }
-        
