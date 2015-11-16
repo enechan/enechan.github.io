@@ -8,7 +8,7 @@ margin-bottom: 35px;
 height: 650px;
 background-color: #424242;
 color: #b0bec5; 
-  
+border-top: 1px solid #000000;  
 }
 
 .main-header {
@@ -19,7 +19,7 @@ color: Crimson;
 padding-top: 55px;
 margin-top: -80px;
 margin-bottom: 15px;
-border-bottom: 1px solid #000000;
+
 }
 
 .second-header p {
