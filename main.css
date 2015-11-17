@@ -5,14 +5,13 @@ font-size: 70px;
 color: Crimson;  
 padding-top: 60px;
 padding-bottom: 60px;
-margin-top: 80px;
+margin-top: -80px;
 margin-bottom: 70px;
 display: inline;
 }
 
 .main-header {
 display: inline;
-margin-bottom: 150px;  
 
 }
 .second-header  {
@@ -43,8 +42,8 @@ margin-top: 150px;
   color: #5a5a5a;
   font-size: 30px;
   font-weight: bold;
-  padding: 14px 10px;
-  text-transform: uppercase;
+
+
 }
 
 .nav li {
