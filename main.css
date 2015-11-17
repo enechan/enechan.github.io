@@ -1,3 +1,18 @@
+.main-header h1 {
+float: left;
+font-family: Arial; 
+font-size: 70px; 
+color: Crimson;  
+padding-top: 55px;
+margin-top: -80px;
+margin-bottom: 15px;
+display: inline;
+}
+
+.main-header p {
+display: inline;
+  
+}
 .second-header {
 padding-top: 20px;
 padding-bottom: 170px;
@@ -12,16 +27,6 @@ border-top: 1px solid #B31515;
 
 }
 
-.main-header h1 {
-float: left;
-font-family: Arial; 
-font-size: 70px; 
-color: Crimson;  
-padding-top: 55px;
-margin-top: -80px;
-margin-bottom: 15px;
-display: inline;
-}
 
 .second-header p {
 
@@ -30,11 +35,12 @@ padding-bottom: 150px;
 float: middle;
 }
 
-.main-header p {
-display: inline;
+.second-header iframe {
   
-
+margin-top: 150px;
+  
 }
+
 
 .nav a {
   color: #5a5a5a;
@@ -49,9 +55,6 @@ display: inline;
 }
 
 .carta-one {
-
 float: center;
+}
 
-  
-}
-}
