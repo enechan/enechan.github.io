@@ -1,4 +1,4 @@
-.second-header {
+.second-header p {
 padding-top: 20px;
 padding-bottom: 170px;
 padding-left: 430px;
@@ -27,7 +27,7 @@ display: inline;
 
 padding-top: 150px;
 padding-bottom: 150px;
-float: center;  
+float: middle;
 }
 
 .main-header p {
@@ -46,4 +46,12 @@ display: inline;
 
 .nav li {
   display: inline;
+}
+
+.carta-one {
+
+float: center;
+
+  
+}
 }
