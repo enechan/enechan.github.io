@@ -11,8 +11,8 @@ color: #b0bec5;
 border-top: 1px solid #B31515;  
 }
 
-.main-header {
-
+.main-header h1 {
+float: left;
 font-family: Arial; 
 font-size: 70px; 
 color: Crimson;  
