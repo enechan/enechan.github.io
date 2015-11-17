@@ -1,5 +1,5 @@
 .main-header {
-display: inline;
+display: block;
 background-color: #FFF;
 }
 
@@ -8,7 +8,7 @@ float: left;
 font-family: Arial; 
 font-size: 70px; 
 color: Crimson;  
-padding-top: 60px;
+padding-top: 0px;
 padding-bottom: 60px;
 margin-top: -90px;
 margin-bottom: 80px;
@@ -16,12 +16,20 @@ margin-bottom: 80px;
   
 }
 
-.maing-header {
-
-display: inline;  
-  
-
+.nav a {
+  color: #5a5a5a;
+  font-size: 30px;
+  font-weight: bold;
+  padding-left: 80px;
+  float: right;
+  margin-top: -30px;
 }
+
+.nav li {
+  display: inline;
+}
+
+
 
 
 .second-header  {
@@ -48,18 +56,7 @@ margin-top: 100px;
 }
 
 
-.nav a {
-  color: #5a5a5a;
-  font-size: 30px;
-  font-weight: bold;
-  padding-left: 80px;
-  float: right;
-  margin-top: -30px;
-}
 
-.nav li {
-  display: inline;
-}
 
 .carta-one {
 float: center;
