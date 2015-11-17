@@ -9,6 +9,7 @@ height: 650px;
 background-color: #424242;
 color: #b0bec5; 
 border-top: 1px solid #B31515;  
+float: center;
 }
 
 .main-header h1 {
@@ -37,7 +38,7 @@ display: inline;
 
 .nav a {
   color: #5a5a5a;
-  font-size: 11px;
+  font-size: 30px;
   font-weight: bold;
   padding: 14px 10px;
   text-transform: uppercase;
