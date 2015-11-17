@@ -9,7 +9,7 @@ height: 650px;
 background-color: #424242;
 color: #b0bec5; 
 border-top: 1px solid #B31515;  
-float: center;
+
 }
 
 .main-header h1 {
@@ -27,7 +27,7 @@ display: inline;
 
 padding-top: 60px;
 padding-bottom: 60px;
-  
+float: center;  
 }
 
 .main-header p {
