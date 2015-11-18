@@ -26,6 +26,11 @@ margin-bottom: 80px;
   display: inline-block;
   width: 150px;
   height: 70px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
 }
 
 
