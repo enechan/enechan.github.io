@@ -23,12 +23,12 @@ margin-bottom: 80px;
   border: 1px solid #FFF;
   float: right;
   margin-top: 30px;
-  display: inline;
+  display: inline-block;
 }
 
 
 .nav li {
-display: inline;  
+display: inline-block;  
 }
 
 
