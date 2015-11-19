@@ -1,13 +1,9 @@
-.main-header {
-display: block;
-background-color: #FFF;
-}
 
 .main-header h1 {
 
 font-family: 'Montserrat', sans-serif; 
 font-size: 70px; 
-color: #212121;  
+color: Crimson;  
 padding-bottom: 0px;
 margin-bottom: -10px;
 margin-top: -12px;
@@ -15,15 +11,15 @@ background-color: #C42931;
   
 }
 
-
-
-
 .Titulo-Principal  {
 
 background-color: #F7F2F5;
 color: #212121; 
-border-top: 1px solid #B31515;  
+border-top: 1px solid #B31515; 
 font-family: 'Montserrat', sans-serif;
+padding-bottom: 0px;
+padding-top: 20px;
+
 }
 
 .Titulo-Principal p {
@@ -31,25 +27,34 @@ text-align: center;
 margin-top: 40px;
 margin-bot: 40px;
 font-size: 50px;
-
+padding-bottom: 40px;
 }
 
-
-
-  
+.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
 }
+.embed-container iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
 
 
 .carta-one {
-float: center;
+
 padding-top: 20px;
 padding-bottom: 170px;
-padding-left: 430px;
-padding-right: 430px;
-margin-top: 80px;
-margin-bottom: 35px;
+
+margin-top: 0px;
+margin-bottom: 0px;
 height: 50px;
-background-color: #E38D98;
+background-color: #C42931;
 color: #212121; 
 font-family: 'Montserrat', sans-serif;
 }
@@ -64,10 +69,9 @@ color: #727272
 
 padding-top: 20px;
 padding-bottom: 170px;
-padding-left: 430px;
-padding-right: 430px;
-margin-top: 80px;
-margin-bottom: 35px;
+
+margin-top: 0px;
+margin-bottom: 0px;
 height: 50px;
 background-color: #A31C25;
 color: #212121; 
