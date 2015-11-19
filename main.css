@@ -5,7 +5,7 @@ background-color: #FFF;
 
 .main-header h1 {
 float: left;
-font-family: Arial; 
+font-family: 'Montserrat', sans-serif; 
 font-size: 70px; 
 color: #212121;  
 padding-top: 0px;
@@ -26,11 +26,11 @@ padding-left: 430px;
 padding-right: 430px;
 margin-top: 80px;
 margin-bottom: 35px;
-height: 650px;
-background-color: #4CAF50;
+height: 648px;
+background-color: #F7F2F5;
 color: #212121; 
 border-top: 1px solid #B31515;  
-
+font-family: 'Montserrat', sans-serif;
 }
 
 .Titulo-Principal p {
@@ -56,12 +56,13 @@ padding-right: 430px;
 margin-top: 80px;
 margin-bottom: 35px;
 height: 50px;
-background-color: #8BC34A;
+background-color: #E38D98;
 color: #212121; 
+font-family: 'Montserrat', sans-serif;
 }
 
 .carta-one p {
-
+font-family: 'Montserrat', sans-serif;
 color: #727272
 }
 
@@ -75,12 +76,12 @@ padding-right: 430px;
 margin-top: 80px;
 margin-bottom: 35px;
 height: 50px;
-background-color: #4CAF50;
+background-color: #A31C25;
 color: #212121; 
 
 }
 
 .carta-two p {
-
+font-family: 'Montserrat', sans-serif;
 color: #727272
 }
