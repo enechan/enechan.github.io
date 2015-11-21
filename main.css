@@ -86,6 +86,27 @@ color: #B4B2AE
 .carta-two img {
 
 text-align: center
-  
 }
+
+.carta-three {
+
+padding-top: 20px;
+padding-bottom: 400px;
+
+margin-top: 0px;
+margin-bottom: 0px;
+height: 50px;
+background-color: #A31C25;
+color: #212121; 
+
+}
+
+.carta-two p {
+font-family: 'Montserrat', sans-serif;
+color: #B4B2AE
+}
+
+.carta-two img {
+
+text-align: center
 }
