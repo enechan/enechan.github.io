@@ -62,6 +62,7 @@ font-family: 'Montserrat', sans-serif;
 .carta-one p {
 font-family: 'Montserrat', sans-serif;
 color: #B4B2AE
+margin-top: 40px;
 }
 
 
@@ -81,11 +82,7 @@ color: #212121;
 .carta-two p {
 font-family: 'Montserrat', sans-serif;
 color: #B4B2AE
-}
-
-.carta-two img {
-
-text-align: center
+margin-top: 40px;
 }
 
 .carta-three {
@@ -101,12 +98,9 @@ color: #212121;
 
 }
 
-.carta-two p {
+.carta-three p {
 font-family: 'Montserrat', sans-serif;
 color: #B4B2AE
+margin-top: 40px;
 }
 
-.carta-two img {
-
-text-align: center
-}
