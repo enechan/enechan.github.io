@@ -1,21 +1,26 @@
+.todo {
 
+margin-left: 200px;
+margin-right: 200px;
+
+}
 .main-header h1 {
 
 font-family: 'Montserrat', sans-serif; 
 font-size: 70px; 
 color: Crimson;  
 padding-bottom: 0px;
-margin-bottom: -10px;
-margin-top: -12px;
+margin-bottom: 0px;
+margin-top: 0px;
 background-color: #C42931;
-  
+border-bottom: 1px solid #A31C25;  
 }
 
 .Titulo-Principal  {
 
 background-color: #F7F2F5;
 color: #212121; 
-border-top: 1px solid #B31515; 
+
 font-family: 'Montserrat', sans-serif;
 padding-bottom: 0px;
 padding-top: 20px;
@@ -88,14 +93,14 @@ color: #B4B2AE
 .carta-three {
 
 padding-top: 15px;
-padding-bottom: 400px;
+padding-bottom: 350px;
 
 margin-top: 0px;
 margin-bottom: 0px;
 height: 50px;
 background-color: #C42931;
 color: #212121; 
-
+border-bottom: 1px solid #A31C25;
 }
 
 .carta-three p {
@@ -109,5 +114,4 @@ color: #B4B2AE
   
 border: 1px solid #B4B2AE;
 
-}
 }
